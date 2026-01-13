@@ -83,5 +83,4 @@ gameSeq = [];
 userSeq = [];
 };
 
-
 // this is change
