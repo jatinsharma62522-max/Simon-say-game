@@ -83,6 +83,4 @@ gameSeq = [];
 userSeq = [];
 };
 
-// come and code
-// this is change
 
